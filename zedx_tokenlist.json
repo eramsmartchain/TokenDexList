@@ -1,0 +1,15 @@
+{
+  "name": "EramDex Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://eramdex.com/logo.png",
+  "keywords": ["zedx", "default"],
+  "tokens": [
+    
+  ]
+}
